@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ListView 动物列表"/>
+
+    <Button
+        android:id="@+id/btn_alert_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义AlertDialog弹窗"/>
+
+    <Button
+        android:id="@+id/btn_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选项菜单 OptionMenu"/>
+
+    <Button
+        android:id="@+id/btn_actionmode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ActionMode上下文菜单"/>
+
+    <Button
+        android:id="@+id/btn_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RecyclerView列表"/>
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+# Android / Gradle
+.gradle
+build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio IDE
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Mac系统文件
+.DS_Store
